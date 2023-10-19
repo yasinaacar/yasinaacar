@@ -13,5 +13,5 @@ Hi, I am Yasin. I am currently working on web technologies and taking on freelan
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinaacar&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yasinaacar&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=yasinaacar&limit=5&theme=merko&combine_all_yearly_contributions=true)
  
